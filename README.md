@@ -10,6 +10,13 @@ These are my custom edits
 
 ## New section 1
 
+This is new section 1
+
 ## New section 2
+This is new section 2
 
 ## Deployment
+This is how to deploy
+
+## Description
+Description of project
