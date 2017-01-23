@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Pritchard   sjpritchard@gmail.com
 
 # THANKS
 
