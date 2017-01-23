@@ -20,3 +20,6 @@ This is how to deploy
 
 ## Description
 Description of project
+
+### Copyright
+This is a copyright
