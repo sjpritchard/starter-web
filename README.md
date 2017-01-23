@@ -23,3 +23,7 @@ Description of project
 
 ### Copyright
 This is a copyright
+
+
+## How to contribute
+Please fork and issue pull requests`
